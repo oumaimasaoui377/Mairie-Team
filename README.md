@@ -37,7 +37,6 @@ Base de données à implémenter sur **Windows/MySQL** et **Linux/PostgreSQL** (
 
 ## Répartition des tâches (2 personnes)
 
-> ⚠️ Le sujet demande normalement des groupes de **3** avec un chef de projet. Adapte cette répartition si vous êtes bien 2, et pensez à documenter pourquoi vous êtes en binôme.
 
 ### Personne A — Côté "Données + Web (RP1)"
 
@@ -78,10 +77,7 @@ Base de données à implémenter sur **Windows/MySQL** et **Linux/PostgreSQL** (
 - [ ] Documentation technique HTML (RP2)
 - [ ] Portefeuille de compétences (à jour régulièrement, **pas à la dernière minute**)
 - [ ] Planning de projet (Gantt) tenu à jour
-
-> 💡 Conseil : même si les tâches sont réparties, **chaque technologie doit être maîtrisée par les deux membres** (exigence explicite du sujet, car E5 peut porter sur le travail de l'autre).
-
----
+*-----------
 
 ## Planning prévisionnel (20 semaines)
 
