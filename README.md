@@ -135,9 +135,13 @@ marieteam-projet/
 1er orale:
 -> Réalisation 1 : Solution web
 * digramme de cos d'utilisation
-* données : . dictionnaire de données
-            . MCD
-            . MLD
+* données :
+
+              . dictionnaire de données
+              . MCD
+              . MLD
+
+  
 * Charte graphique
 * Maquette
 * Déclaration textuelle
