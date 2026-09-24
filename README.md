@@ -22,6 +22,7 @@ MarieTeam assure la desserte maritime d'îles du littoral français (Belle-Île,
 
 VDEV est l'ESN chargée de développer les outils pour MarieTeam.
 
+
 ## Réalisations professionnelles
 
 | # | Réalisation | Type |
@@ -129,3 +130,16 @@ marieteam-projet/
 | | | |
 
 [lien d'un exemplaire qu'on va se baser sur ](https://mairie-team.lovable.app/)
+1er orale:
+-> Réalisation 1 : Solution web
+* digramme de cos d'utilisation
+* données : . dictionnaire de données
+            . MCD
+            . MLD
+* Charte graphique
+* Maquette
+* Déclaration textuelle
+* les choix technologique
+* un planing/organisation
+* outils collaboratifs (on utilise github)
+  
