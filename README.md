@@ -134,7 +134,7 @@ marieteam-projet/
 
 1er orale:
 -> Réalisation 1 : Solution web
-* digramme de cos d'utilisation
+* digramme de cas d'utilisation
 * données :
 
               . dictionnaire de données
