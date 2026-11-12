@@ -1,6 +1,6 @@
 # MarieTeam
 
-**Système de réservation de traversées maritimes vers les îles du littoral français**
+**Système de réservation de traversées marieteam vers les îles du littoral français**
 
 ![Statut](https://img.shields.io/badge/statut-en%20cours-yellow) ![Projet](https://img.shields.io/badge/projet-scolaire-blue) ![Durée](https://img.shields.io/badge/durée-3%20semaines-lightgrey)
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Contexte et objectifs
+##  Contexte et objectifs
 
 **Contexte :** MarieTeam est une compagnie maritime fictive qui relie le continent aux îles du littoral français. Elle souhaite proposer un site web simple pour consulter les traversées et réserver en ligne, sans passer par le guichet ou le téléphone.
 
@@ -42,24 +42,24 @@
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
-### 👤 Client
-- 🔎 Rechercher une traversée (destination, liaison, date)
-- 🕒 Consulter les horaires et les disponibilités (passagers, véhicules)
-- ✅ Sélectionner un départ
-- 🎫 Réserver une traversée (saisie des infos passager, confirmation, montant total, numéro de réservation)
-- 📋 Consulter ses réservations
-- 🏝️ Découvrir les destinations (Belle-Île, Ouessant, Groix…)
-- ⭐ Consulter le club fidélité
+###  Client
+-  Rechercher une traversée (destination, liaison, date)
+-  Consulter les horaires et les disponibilités (passagers, véhicules)
+-  Sélectionner un départ
+-  Réserver une traversée (saisie des infos passager, confirmation, montant total, numéro de réservation)
+-  Consulter ses réservations
+-  Découvrir les destinations (Belle-Île, Ouessant, Groix…)
+-  Consulter le club fidélité
 
-### 🧑‍✈️ Agent de la compagnie
-- 🚢 Gérer les traversées (horaires, navire, liaison)
-- 📊 Gérer les disponibilités (passagers, véhicules légers, véhicules lourds)
+###  Agent de la compagnie
+-  Gérer les traversées (horaires, navire, liaison)
+-  Gérer les disponibilités (passagers, véhicules légers, véhicules lourds)
 
 ---
 
-## 🧩 Analyse : cas d'utilisation
+##  Analyse : cas d'utilisation
 
 Deux acteurs : le **Client** et l'**Agent compagnie**.
 
@@ -81,7 +81,7 @@ Deux acteurs : le **Client** et l'**Agent compagnie**.
 
 ---
 
-## 🗄️ Modélisation des données
+##  Modélisation des données
 
 ### Dictionnaire de données (résumé)
 
@@ -131,7 +131,7 @@ RESERVATION (num_reservation, date_reservation, nb_adultes, nb_enfants, montant_
 
 ---
 
-## 🎨 Charte graphique
+##  Charte graphique
 
 ### Palette
 
@@ -162,7 +162,7 @@ Carré bleu primaire arrondi avec une ancre blanche, « MarieTeam » en serif gr
 
 ---
 
-## 🖼️ Maquettes
+##  Maquettes
 
 Pages principales : accueil avec formulaire de recherche, tableau des horaires avec bloc « Votre sélection », club fidélité, espace gestionnaire.
 
@@ -190,7 +190,7 @@ Pages principales : accueil avec formulaire de recherche, tableau des horaires a
 
 ---
 
-## 📅 Planning et organisation
+##  Planning et organisation
 
 Travail réparti sur 3 semaines.
 
@@ -219,9 +219,9 @@ Travail réparti sur 3 semaines.
 |---|---|---|
 | Support de présentation + charte graphique à jour | Adel | ✅ Fait |
 | Choix technologiques + plan du site | Les 2 | ✅ Fait |
-| Corrections + dernier push GitHub | Oumaima | 🔄 En cours |
-| Répétition n°1 chronométrée (présentation + démo) | Les 2 | ⏳ À faire |
-| Répétition n°2 + préparation des questions du jury | Les 2 | ⏳ À faire |
+| Corrections + dernier push GitHub | Oumaima | ✅ Fait |
+| Répétition n°1 chronométrée (présentation + démo) | Les 2 | ✅ Fait |
+| Répétition n°2 + préparation des questions du jury | Les 2 | ✅ Fait |
 
 ### Outils collaboratifs
 - **GitHub :** dépôt commun, historique des commits, partage du code et des documents
@@ -229,7 +229,7 @@ Travail réparti sur 3 semaines.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 > ⚠️ Section à compléter selon la stack finale retenue (Astro, PHP ou ASP.NET MVC, base MySQL ou PostgreSQL).
 
@@ -250,7 +250,7 @@ cd <depot>
 
 ---
 
-## 👥 Équipe
+##  Équipe
 
 | Nom | Rôle |
 |---|---|
@@ -260,3 +260,6 @@ cd <depot>
 ---
 
 <p align="center">Projet réalisé dans un cadre pédagogique · MarieTeam est une compagnie fictive ⚓</p>
+
+![Exemplaires de sites pour se baser en développement sur ](https://mairie-team.lovable.app/)
+
