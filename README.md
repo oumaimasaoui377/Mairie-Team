@@ -261,5 +261,10 @@ cd <depot>
 
 <p align="center">Projet réalisé dans un cadre pédagogique · MarieTeam est une compagnie fictive ⚓</p>
 
-![Exemplaires de sites pour se baser en développement sur ](https://mairie-team.lovable.app/)
+[Exemplaires de sites pour se baser en développement sur ](https://mairie-team.lovable.app/)
+
+##  Documents
+
+-  [Présentation PowerPoint](docs/MarieTeam_Presentation.pptx)
+-  [Dossier d'analyse (Word)](docs/MarieTeam_Analyse.docx)
 
