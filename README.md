@@ -265,6 +265,6 @@ cd <depot>
 
 ##  Documents
 
--  [Présentation PowerPoint](docs/MarieTeam_Presentation.pptx)
--  [Dossier d'analyse (Word)](docs/MarieTeam_Analyse.docx)
+-  [Présentation PowerPoint](docs/MarieTeam-dossierd'analyse.pptx)
+-  [Dossier d'analyse (Word)](docs/MarieTeam_Analyse_corrige(1).docx)
 
