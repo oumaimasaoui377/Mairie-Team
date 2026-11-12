@@ -1,4 +1,4 @@
-# ⚓ MarieTeam
+# MarieTeam
 
 **Système de réservation de traversées maritimes vers les îles du littoral français**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📑 Sommaire
+##  Sommaire
 
 1. [Contexte et objectifs](#-contexte-et-objectifs)
 2. [Fonctionnalités](#-fonctionnalités)
